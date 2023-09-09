@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    color: black;
+    font-size: 30px;
+    font-weight: normal;/*bold*/
+    font-family: 'Quicksand', sans-serif;
+    line-height: 1.5;
+    text-align: justify;/*left center right*/
+width: 800px;
+float: left;
+margin: 20px;
+/*
+margin-top:20px;
+margin-right:20px;
+margin-bottom:20px;
+margin-left:20px;
+*/
+padding: 10px;
+border: 5px solid red ;
+a{
+    text-decoration: none;
+}
+
+}
